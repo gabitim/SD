@@ -14,8 +14,8 @@ import java.io.IOException;
 
 public class ReadStudentServlet extends HttpServlet {
     @Override
-    protected void doGet(HttpServletRequest request,
-                         HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
         // deserializare student din fisierul XML de pe disc
         File file = new File("E:\\facultate\\AN_3_SEM_2\\SD\\lab_1\\JEE-Test\\store\\student.xml");
         // se returneaza un raspuns HTTP de tip 404 in cazul in care nu se gaseste fisierul cu date

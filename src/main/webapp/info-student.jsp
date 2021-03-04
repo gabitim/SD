@@ -33,5 +33,15 @@
         %></li>
 
         </ul>
+
+      <br>
+      <p>
+        <a href="./formular.jsp">Actualizeaza informatii despre student</a>
+      </p>
+
+      <p>
+        <a href="./delete-student">Sterge informatii despre student</a>
+      </p>
+
     </body>
 </html>
