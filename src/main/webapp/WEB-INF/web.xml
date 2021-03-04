@@ -20,6 +20,10 @@
     <servlet-name>DeleteStudent</servlet-name>
     <servlet-class>DeleteStudentServlet</servlet-class>
   </servlet>
+  <servlet>
+    <servlet-name>FindStudent</servlet-name>
+    <servlet-class>FindStudentServlet</servlet-class>
+  </servlet>
 
 
   <servlet-mapping>
@@ -37,6 +41,10 @@
   <servlet-mapping>
     <servlet-name>DeleteStudent</servlet-name>
     <url-pattern>/delete-student</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FindStudent</servlet-name>
+    <url-pattern>/find-student</url-pattern>
   </servlet-mapping>
 
 

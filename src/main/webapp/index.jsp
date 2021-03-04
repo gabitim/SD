@@ -9,7 +9,10 @@
 <a href="./formular.jsp">Formular student</a>
 </p>
 <p>
-<a href="./read-student">Vizualizare student</a>
+<a href="./read-student">Vizualizare toti studenti -- not working right now</a>
+</p>
+<p>
+<a href="./cauta-student.jsp">Cautati un student</a>
 </p>
 </body>
 </html>

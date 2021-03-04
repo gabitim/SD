@@ -1,1 +1,2 @@
-<StudentBean><nume>asfasf</nume><prenume>adgsdg</prenume><varsta>12</varsta></StudentBean>
+<ProcessedStudentBean><nume>Bunilll</nume><prenume>Gabriel</prenume><varsta>2</varsta><nrRestante>2</nrRestante><pet>cat</pet><anNastere>2019</anNastere></ProcessedStudentBean>
+<ProcessedStudentBean><nume>Mama</nume><prenume>Curasa</prenume><varsta>6</varsta><nrRestante>21</nrRestante><pet>mmata</pet><anNastere>2015</anNastere></ProcessedStudentBean>
